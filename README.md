@@ -11,6 +11,7 @@ There are two jupyter notebooks corresponding to the two texts used. <br>
 Run the corresponding notebook for the required text.
 
 # ROUND 2
+Please Refer this branch for round two https://github.com/gmmkmtgk/Foundation_Seekers/tree/round_2
 The books are named as B1, B2, B3(Cleaned)
 Round 2 has three parts so they are named as Round_2_Part1, Round_2_Part1 and Round_2_Part1 Respectively 
 
